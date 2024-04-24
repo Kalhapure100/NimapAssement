@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.14.
 
+# Output
+![1-home-page](https://github.com/Kalhapure100/NimapAssement/blob/main/Output/Screenshot%202024-04-24%20164622.png)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
