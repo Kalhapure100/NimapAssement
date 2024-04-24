@@ -61,12 +61,7 @@ export class RegistrationformComponent{
     }
   }
   
-  maxSize = 1024 * 1024; // 1MB in bytes
-  minWidth = 310;
-  minHeight = 325;
-
-
-
+  
 
 
   previewPhoto(event: any) {
