@@ -4,6 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Output
 ![1-home-page](https://github.com/Kalhapure100/NimapAssement/blob/main/Output/Screenshot%202024-04-24%20164622.png)
+![2-registeration-page](https://github.com/Kalhapure100/NimapAssement/blob/main/Output/Screenshot%202024-04-24%20164727.png
+)
+
+![3-profile-page](https://github.com/Kalhapure100/NimapAssement/blob/main/Output/Screenshot%202024-04-24%20164752.png
+)
+
 
 ## Development server
 
